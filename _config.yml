@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: marijn.vanderzee@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/logo.png"
 float_logo: true # true, false (default)
 
 # blog cover
@@ -18,7 +18,7 @@ cover: "/assets/images/irisenmarijn.jpg"
 
 name: 'Iris Lindner | Marijn van der Zee'
 author: 'Marijn van der Zee'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/marijn.jpg"
 
 paginate:	5
 
@@ -38,7 +38,7 @@ social:
     url:	https://twitter.com/marijnvanderzee
     desc: Follow me on twitter
     share_url: http://twitter.com/share
-    share_title: ?text=
+    share_title: "?text="
     share_link: "&amp;url="
 
 #  - icon:	facebook
