@@ -2,7 +2,7 @@
 layout: post
 title:  "Met zijn vieren in Montsec"
 date:   2012-05-07 14:34:25
-categories: jekyll update
+categories: family
 tags: featured
 image: /assets/images/met_zijn_vieren.jpg
 ---

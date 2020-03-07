@@ -2,7 +2,7 @@
 layout: post
 title:  "Kisses"
 date:   2006-04-23 14:34:25
-categories: mediator feature
+categories: kisses
 tags: featured
 image: /assets/images/kisses.jpg
 image2: /assets/images/kisses_02.jpg
