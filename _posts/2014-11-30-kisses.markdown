@@ -4,8 +4,8 @@ title:  "Kisses"
 date:   2006-04-23 14:34:25
 categories: kisses
 tags: featured
-image: /assets/images/kisses.jpg
-image2: /assets/images/kisses_02.jpg
+image: /assets/images/kisses_02.jpg
+image2: /assets/images/kisses.jpg
 ---
 
 Op deze afbeeldingen is te zien dat we elkaar erg lief vinden.
