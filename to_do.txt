@@ -10,7 +10,8 @@ Pagina's
 x Contactgegevens
 x RSVP placeholder
 x Ceremoniemeester placeholder
-  Locatie placeholder
+x Locatie placeholder
+  Wat trek ik aan (dresscode) placeholder
   Wat trek ik aan (dresscode)
   Locatie & Parkeren
   Overnachten (camperen)
