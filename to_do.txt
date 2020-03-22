@@ -1,0 +1,38 @@
+te doen:
+
+lijst met posts per tag
+
+
+---
+
+Pagina's
+
+x Contactgegevens
+x RSVP placeholder
+x Ceremoniemeester placeholder
+  Locatie placeholder
+  Wat trek ik aan (dresscode)
+  Locatie & Parkeren
+  Overnachten (camperen)
+  Ceremoniemeester
+  Cadeau
+  Kinderen
+  RSVP
+  Dagprogramma
+
+---
+
+Vragen RSVP:
+dieet
+blijf je overnachten (camperen)
+kom je?
+met hoeveel mensen?
+emailadres voor updates
+
+---
+
+check de links en emailadressen op de definitieve versie van de kaart.
+
+rsvp - mailchimp lijst? Google Form?
+
+emailadres instellen
