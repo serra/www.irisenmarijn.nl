@@ -36,4 +36,6 @@ check de links en emailadressen op de definitieve versie van de kaart.
 
 rsvp - mailchimp lijst? Google Form?
 
+    - mail chimp lijst met "signup form"
+
 emailadres instellen
