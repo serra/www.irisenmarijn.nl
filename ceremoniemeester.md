@@ -2,6 +2,7 @@
 layout: page
 title: Ceremoniemeester
 permalink: /ceremoniemeester/
+image: /assets/images/hugs.jpg
 ---
 
 We onthullen een dezer weken wie onze ceremonieemeesters zijn.
