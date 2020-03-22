@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ceremoniemeester
-permalink: /ceremonieemeester/
+permalink: /ceremoniemeester/
 ---
 
 We onthullen een dezer weken wie onze ceremonieemeesters zijn.
