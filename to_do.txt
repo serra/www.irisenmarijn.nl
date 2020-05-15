@@ -38,4 +38,13 @@ rsvp - mailchimp lijst? Google Form?
 
     - mail chimp lijst met "signup form"
 
-emailadres instellen
+
+---
+
+Emailforwarding is verzorgd met https://forwardemail.net/en/my-account/.
+
+Alles wordt nu nog doorgestuurd naar marijn.vanderzee@gmai.com.
+
+Zie de volgende helppagina om dit op een andere manier in te stellen:
+
+https://forwardemail.net/en/faq?domain=irisenmarijn.nl#how-do-i-get-started-and-set-up-email-forwarding
