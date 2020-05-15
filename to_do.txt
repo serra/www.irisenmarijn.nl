@@ -1,7 +1,8 @@
 te doen:
 
-lijst met posts per tag
-
+  lijst met posts per tag
+  check links (bv ceremoniemeesters breekt regelmatig)
+x trouwdatum aanpassen
 
 ---
 
